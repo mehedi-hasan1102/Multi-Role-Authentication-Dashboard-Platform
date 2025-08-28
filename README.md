@@ -49,7 +49,7 @@ Follow these instructions to get the project up and running on your local machin
 
 2. **Navigate to the project directory:**
    ```sh
-   cd <PROJECT_DIRECTORY>
+   cd Multi-Role-Authentication-Dashboard-Platform
    ```
 
 3. **Install dependencies:**
