@@ -1,0 +1,12 @@
+{
+  "purchases": [
+    { "id": 1, "customer": "Alice", "amount": 100, "date": "2025-08-28" },
+    { "id": 2, "customer": "Bob", "amount": 250, "date": "2025-08-27" },
+    { "id": 3, "customer": "Charlie", "amount": 75, "date": "2025-08-26" }
+  ],
+  "notifications": [
+    { "id": 1, "message": "Alice requests approval for a $100 purchase." },
+    { "id": 2, "message": "Bob requests approval for a $250 purchase." },
+    { "id": 3, "message": "Charlie requests approval for a $75 purchase." }
+  ]
+}

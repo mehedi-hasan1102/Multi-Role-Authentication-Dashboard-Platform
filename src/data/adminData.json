@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "John Doe", "email": "john@example.com", "role": "member" },
+    { "id": 2, "name": "Jane Smith", "email": "jane@example.com", "role": "member" },
+    { "id": 3, "name": "Peter Jones", "email": "peter@example.com", "role": "member" }
+  ],
+  "merchants": [
+    { "id": "m1", "name": "Gadget Store", "email": "contact@gadgetstore.com", "role": "merchant" },
+    { "id": "m2", "name": "Book Haven", "email": "support@bookhaven.com", "role": "merchant" }
+  ]
+}
